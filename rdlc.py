@@ -21,3 +21,4 @@ for k in range(0,100):
 
 print best_out
 print best_x
+print best_y
