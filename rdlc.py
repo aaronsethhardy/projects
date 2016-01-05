@@ -20,3 +20,5 @@ for k in range(0,100):
 		best_y = y_try
 
 print best_out
+print best_x
+print best_y
